@@ -1,5 +1,5 @@
-dividendo = float(input("Dime el dividendo: "))
-divisor = float(input("Entra el divisor: "))
+dividendo = int(input("Dime el dividendo: "))
+divisor = int(input("Entra el divisor: "))
 
 cociente = dividendo // divisor
 residuo = dividendo % divisor
