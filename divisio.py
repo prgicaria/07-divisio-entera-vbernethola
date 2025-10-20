@@ -5,5 +5,5 @@ cociente = dividendo // divisor
 residuo = dividendo % divisor
 
 print(f"Divisió: {dividendo} / {divisor}")
-print(f"Quocient: {cociente}")
-print(f"Residu: {residuo}")
+print("Quocient: "+ cociente)
+print("Residu: "+residuo)
